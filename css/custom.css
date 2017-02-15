@@ -1,0 +1,172 @@
+/*
+* Custom CSS
+* Copyright (c) Pamela S. Chestek, Rafal Malujda, Anthonia Ghalamkarizadeh, Weston Davis. 
+* Licensed under under the Creative Commons Attribution 4.0 International License. 
+*/
+
+
+body {
+	text-align: justify;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1,h2,h3 {
+	text-align: left;
+}
+
+#header { 	
+	background-color: #333;
+	border-top: 5px solid #555;
+	border-bottom: 5px solid #555;
+	padding-top: 50px;
+	padding-bottom: 25px;
+}
+
+#header h1 {
+	color: #fff;
+}
+
+#header h5 {
+	color: #ddd;
+}
+
+#philosophy {
+	padding-top: 50px;
+	padding-bottom: 50px;
+    border-top: 5px solid #eee;
+    border-bottom: 5px solid #eee;
+}
+
+#introduction {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-top: 5px solid #eee;
+	border-bottom: 5px solid #eee;
+}
+
+#basics {
+	background-color: #333;
+	color: #eee;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-top: 5px solid #555;
+	border-bottom: 5px solid #555;
+}
+
+#choosing_name {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-top: 5px solid #eee;
+	border-bottom: 5px solid #eee;
+}
+
+#principles_section {
+	background-color: #ddd;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-top: 5px solid #ccc;
+	border-bottom: 5px solid #ccc;
+}
+
+#choosing_name h4 {
+	padding-top: 50px;
+}
+
+#name_techniques {
+	background-color: #ddd;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-top: 5px solid #ccc;
+	border-bottom: 5px solid #ccc;
+}
+
+#additionalconsiderations {
+		padding-top: 50px;
+		padding-bottom: 50px;
+		border-top: 5px solid #eee;
+		border-bottom: 5px solid #eee;
+}
+
+#legal_clearance {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-top: 5px solid #eee;
+	border-bottom: 5px solid #eee;
+}
+
+#users_and_contributors {
+	background-color: #333;
+	color: #eee;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-top: 5px solid #555;
+	border-bottom: 5px solid #555;
+}
+
+#ownership {
+	padding-top: 50px;
+	border-top: 5px solid #eee;
+}
+
+#registration {
+	padding-bottom: 50px;
+	border-bottom: 5px solid #eee;
+}
+
+
+#business {
+	background-color: #333;
+	color: #eee;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-top: 5px solid #555;
+	border-bottom: 5px solid #555;
+}
+
+#business2 {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-top: 5px solid #eee;
+	border-bottom: 5px solid #eee;
+}
+
+
+#infringement {
+	background-color: #333;
+	color: #eee;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-top: 5px solid #555;
+	border-bottom: 5px solid #555;
+}
+
+#infringement2 {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-top: 5px solid #eee;
+	border-bottom: 5px solid #eee;
+}
+
+#trademarkpolicy {
+	background-color: #ddd;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-top: 5px solid #ccc;
+	border-bottom: 5px solid #ccc;
+}
+
+#seekadvice {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-top: 5px solid #eee;
+	border-bottom: 5px solid #eee;
+}
+
+#contributors {
+	background-color: #333;
+	color: #eee;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-top: 5px solid #555;
+	border-bottom: 5px solid #555;
+}
