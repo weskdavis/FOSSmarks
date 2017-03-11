@@ -30,17 +30,17 @@ h1,h2,h3 {
 	color: #ddd;
 }
 
-#philosophy {
+.padtop {
 	padding-top: 50px;
-    border-top: 5px solid #eee;
+  border-top: 5px solid #eee;
 }
 
-#introduction {
+.padbottom {
 	padding-bottom: 50px;
 	border-bottom: 5px solid #eee;
 }
 
-#basics {
+.sectionhead {
 	background-color: #333;
 	color: #eee;
 	padding-top: 50px;
@@ -49,114 +49,17 @@ h1,h2,h3 {
 	border-bottom: 5px solid #555;
 }
 
-#choosing_name {
+.sectionbody {
 	padding-top: 50px;
 	padding-bottom: 50px;
 	border-top: 5px solid #eee;
 	border-bottom: 5px solid #eee;
 }
 
-#principles_section {
+.sectionnarrow {
 	background-color: #ddd;
 	padding-top: 50px;
 	padding-bottom: 50px;
 	border-top: 5px solid #ccc;
 	border-bottom: 5px solid #ccc;
-}
-
-#choosing_name h4 {
-	padding-top: 50px;
-}
-
-#name_techniques {
-	background-color: #ddd;
-	padding-top: 50px;
-	padding-bottom: 50px;
-	border-top: 5px solid #ccc;
-	border-bottom: 5px solid #ccc;
-}
-
-#additionalconsiderations {
-		padding-top: 50px;
-		padding-bottom: 50px;
-		border-top: 5px solid #eee;
-		border-bottom: 5px solid #eee;
-}
-
-#legal_clearance {
-	padding-top: 50px;
-	padding-bottom: 50px;
-	border-top: 5px solid #eee;
-	border-bottom: 5px solid #eee;
-}
-
-#users_and_contributors {
-	background-color: #333;
-	color: #eee;
-	padding-top: 50px;
-	padding-bottom: 50px;
-	border-top: 5px solid #555;
-	border-bottom: 5px solid #555;
-}
-
-#ownership {
-	padding-top: 50px;
-	border-top: 5px solid #eee;
-}
-
-#registration {
-	padding-bottom: 50px;
-	border-bottom: 5px solid #eee;
-}
-
-
-#business {
-	background-color: #333;
-	color: #eee;
-	padding-top: 50px;
-	padding-bottom: 50px;
-	border-top: 5px solid #555;
-	border-bottom: 5px solid #555;
-}
-
-#business2 {
-	padding-top: 50px;
-	padding-bottom: 50px;
-	border-top: 5px solid #eee;
-	border-bottom: 5px solid #eee;
-}
-
-
-#infringement {
-	background-color: #333;
-	color: #eee;
-	padding-top: 50px;
-	padding-bottom: 50px;
-	border-top: 5px solid #555;
-	border-bottom: 5px solid #555;
-}
-
-#infringement2 {
-	padding-top: 50px;
-	padding-bottom: 50px;
-	border-top: 5px solid #eee;
-	border-bottom: 5px solid #eee;
-}
-
-#trademarkpolicy {
-	background-color: #ddd;
-	padding-top: 50px;
-	padding-bottom: 50px;
-	border-top: 5px solid #ccc;
-	border-bottom: 5px solid #ccc;
-}
-
-
-#contributors {
-	background-color: #333;
-	color: #eee;
-	padding-top: 50px;
-	padding-bottom: 50px;
-	border-top: 5px solid #555;
-	border-bottom: 5px solid #555;
 }
