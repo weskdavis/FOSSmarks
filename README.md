@@ -1,4 +1,4 @@
-# [FOSSmarks](http://http://fossmarks.org)
+# [FOSSmarks](http://fossmarks.org)
 A practical guide to understanding trademarks in the context of Free and Open Source Software projects.
 
 ## Getting started
