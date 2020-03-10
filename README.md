@@ -1,5 +1,8 @@
 # [FOSSmarks](http://fossmarks.org)
 
+[![Build Status](https://drone.fsfe.org/api/badges/fsfe-system-hackers/FOSSmarks/status.svg)](https://drone.fsfe.org/fsfe-system-hackers/FOSSmarks)
+
+
 A practical guide to understanding trademarks in the context of Free and Open Source Software projects.
 
 ---
