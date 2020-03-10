@@ -1,0 +1,23 @@
+version: '3'
+services:
+  fossmarks:
+    container_name: fossmarks
+    build: .
+    image: fossmarks
+    restart: always
+    expose:
+      - 80
+    environment:
+      - VIRTUAL_HOST=www.fossmarks.org,fossmarks.org
+      - LETSENCRYPT_HOST=www.fossmarks.org,fossmarks.org
+      - LETSENCRYPT_EMAIL=contact@fsfe.org
+
+  # Connect the container which exposes the service to the 'bridge' network as
+  # this is where the reverse proxy is
+  connect-bridge:
+    image: docker:dind
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    depends_on:
+      - fossmarks
+    command: /bin/sh -c 'docker network connect bridge fossmarks'
