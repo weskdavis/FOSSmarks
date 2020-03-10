@@ -6,7 +6,7 @@ A practical guide to understanding trademarks in the context of Free and Open So
 
 **Getting started**
 
-FOSSmarks is a project of the FOSSmarks special interest group of the European Legal Network. [Contact us](mailto:pamela@chesteklegal.com) if you have suggestions or would like to become a member of the special interest group. Thank you also to the [Free Software Foundation Europe](https://fsfe.org/index.en.html) for hosting this site.
+FOSSmarks is a project of the FOSSmarks special interest group of the Free Software Foundation's Legal Network. [Contact us](mailto:pamela@chesteklegal.com) if you have suggestions or would like to become a member of the special interest group. Thank you to the [Free Software Foundation Europe](https://fsfe.org/index.en.html) for hosting this site.
 
 **Contributing**
 
@@ -22,8 +22,8 @@ Pamela S. Chestek
 Rafal Malujda
 Anthonia Ghalamkarizadeh
 Weston Davis
-You?
+...(you?)
 
 **Acknowledgement**
 
-FOSSmarks is built on [Hugo](https://github.com/gohugoio/hugo).
+FOSSmarks is built on [Hugo](https://github.com/gohugoio/hugo) using the ['Minimal' theme](https://github.com/calintat/minimal/) by [Calin Tataru](https://github.com/calintat) under the [MIT License](https://github.com/calintat/minimal/blob/master/LICENSE.md)
