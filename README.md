@@ -9,11 +9,15 @@ A practical guide to understanding trademarks in the context of Free and Open So
 
 **Getting started**
 
-FOSSmarks is a project of the FOSSmarks special interest group of the Free Software Foundation's Legal Network. [Contact us](mailto:pamela@chesteklegal.com) if you have suggestions or would like to become a member of the special interest group. Thank you to the [Free Software Foundation Europe](https://fsfe.org/index.en.html) for hosting this site.
+FOSSmarks is a project of the FOSSmarks special interest group of the Free Software Foundation's Legal Network.
+
+[Contact us](mailto:pamela@chesteklegal.com) if you have suggestions or would like to become a member of the special interest group.
+
+Thank you to the [Free Software Foundation Europe](https://fsfe.org/index.en.html) for hosting this site.
 
 **Contributing**
 
-Contributions are accepted! More to come regarding the process.
+Contributions are accepted!
 
 **License**
 
@@ -22,9 +26,9 @@ The content of FOSSmarks is licensed under under the [Creative Commons Attributi
 **Contributors**
 
 Pamela S. Chestek
+Weston Davis
 Rafal Malujda
 Anthonia Ghalamkarizadeh
-Weston Davis
 ...(you?)
 
 **Acknowledgement**
