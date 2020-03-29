@@ -1,4 +1,4 @@
-baseURL = "http://fossmarks.org/"
+baseURL = "https://fossmarks.org/"
 languageCode = "en-us"
 title = "FOSSmarks"
 theme = "minimal"

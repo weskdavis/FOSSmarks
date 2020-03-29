@@ -8,8 +8,8 @@ services:
     expose:
       - 80
     environment:
-      - VIRTUAL_HOST=www.fossmarks.org,fossmarks.org
-      - LETSENCRYPT_HOST=www.fossmarks.org,fossmarks.org
+      - VIRTUAL_HOST=fossmarks.org,www.fossmarks.org
+      - LETSENCRYPT_HOST=fossmarks.org,www.fossmarks.org
       - LETSENCRYPT_EMAIL=contact@fsfe.org
 
   # Connect the container which exposes the service to the 'bridge' network as
