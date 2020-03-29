@@ -10,6 +10,7 @@ This site serves as your guide from the basics of what a trademark is, to tips o
 
 Why do we use the term FOSS? Good question, [read more](https://opensource.com/article/17/11/open-source-or-free-software) about it.
 
+---
 
 
 ## Foundation in Trademarks
@@ -19,6 +20,7 @@ A trademark is an assurance that the recipient of the goods or services is recei
 
 For example, it may be the case that confusion between two products with similar or identical trademarks isn't intentional wrongdoing, but rather a matter of differing views on a project's direction, sometimes resulting in a fork. But if both forks use the same trademark, users won't be able to distinguish them.
 
+---
 
 
 ## How to Use this Guide

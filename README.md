@@ -9,7 +9,7 @@ A practical guide to understanding trademarks in the context of Free and Open So
 
 **Getting started**
 
-FOSSmarks is a project of the FOSSmarks special interest group of the Free Software Foundation's Legal Network.
+FOSSmarks is an independent project spun out of a Free Software Foundation European Legal Network Special Interest Group.
 
 [Contact us](mailto:pamela@chesteklegal.com) if you have suggestions or would like to become a member of the special interest group.
 
