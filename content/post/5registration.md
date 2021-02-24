@@ -1,5 +1,5 @@
 ---
-title: "Chapter 5: Registerting your Trademark"
+title: "Chapter 5: Registering your Trademark"
 date: 2019-01-27
 description: What's the difference between "registered" and "unregistered" trademarks, and what's the benefit of registering? 
 draft: false
