@@ -3,10 +3,16 @@ kind: pipeline
 name: default
 
 steps:
+- name: hugo
+  image: plugins/hugo
+  settings:
+    source: site
+    validate: true
+
 - name: deploy
-  image: docker/compose:1.24.0
+  image: docker/compose:1.29.1
   commands:
-  - docker-compose up --build -d
+  - docker-compose -p fossmarks up --build -d
   volumes:
   - name: dockersock
     path: /var/run/docker.sock

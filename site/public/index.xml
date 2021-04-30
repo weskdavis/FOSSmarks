@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FOSSmarks</title>
+    <link>https://fossmarks.org/</link>
+    <description>Recent content on FOSSmarks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://fossmarks.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter 1: Trademark Basics</title>
+      <link>https://fossmarks.org/post/1trademarkbasics/</link>
+      <pubDate>Wed, 30 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fossmarks.org/post/1trademarkbasics/</guid>
+      <description>A Trademark is any word, name, symbol, or design, or any combination of those items, when used to indicate the source of the goods or services.
+ Countries have laws designed to protect trademarks, like your name and logo. A trademark used in association with services is sometimes called a service mark, but the same law applies.
+Trademark rights are not an absolute right to use a word in any context, but rather are limited to particular goods or services when used in commerce.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 2: Choosing a Name or Logo</title>
+      <link>https://fossmarks.org/post/2choosingname/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fossmarks.org/post/2choosingname/</guid>
+      <description>A project&amp;rsquo;s &amp;ldquo;name&amp;rdquo; isn&amp;rsquo;t necessarily a trademark – it might just be a term used to describe a technology, for example &amp;ldquo;rpm&amp;rdquo; (which started out as a Red Hat trademark) or &amp;ldquo;html.&amp;rdquo; Some countries have the concept of a &amp;ldquo;software title,&amp;rdquo; which is a legal form also entitled to some protection from confusion. For our purposes we will assume that every project name will be a trademark, now or later.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 3: Clearing a Trademark</title>
+      <link>https://fossmarks.org/post/3clearance/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fossmarks.org/post/3clearance/</guid>
+      <description>Legal Clearance Trademark rights are territorial, with over 200 national trademark registries and a few multi-jurisdictional systems, like the pan-European Union system called the Community Trademark.
+There are several different databases and techniques for &amp;ldquo;clearance,&amp;rdquo; which refers to determining whether a name can be used with a low likelihood of infringing the trademark rights of others.
+ Because trademark infringement involves so many ambiguities no clearance can provide certainty, so instead the goal is to reduce the risk of infringement to a tolerable level.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 4: Trademark Ownership</title>
+      <link>https://fossmarks.org/post/4ownership/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fossmarks.org/post/4ownership/</guid>
+      <description>Before you apply to register your trademark, the first (and most important) question to answer is who will own it. Ownership of copyright in the code and ownership of trademark rights in the name and logo won&amp;rsquo;t necessarily be the same.
+ Unlike copyright in the code, community members are not co-owners of the trademark rights in the name or logo; rather, the trademark rights will be owned by a person or entity capable of owning property.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 5: Registerting your Trademark</title>
+      <link>https://fossmarks.org/post/5registration/</link>
+      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fossmarks.org/post/5registration/</guid>
+      <description>Trademarks are referred to as &amp;ldquo;unregistered&amp;rdquo; and &amp;ldquo;registered.&amp;rdquo;
+An &amp;ldquo;unregistered&amp;rdquo; trademark derives rights from actual use. A trademark can also be registered, which is done jurisdiction by jurisdiction. Most trademark registrations are for a specific country, although a few registration schemes cover multiple countries. The Community Trademark, which is a single trademark registration for all of the EU, is the most well-known and useful example.
+ Registration is a formal procedure in which the government grants you rights or officially recognizes your rights in the trademark.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 6: Commercializing your Project</title>
+      <link>https://fossmarks.org/post/6commercializing/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fossmarks.org/post/6commercializing/</guid>
+      <description>If others have found your project and are using it as part of their own products or internal operations you may be approached about providing support or additional features, or a company may want to contribute resources. You yourself may start to see your project as more of a product with monetary potential at this point. Either way, it&amp;rsquo;s time to get serious.
+Legal Entities and Software Foundations Once others start heavily relying on your work it is probably time for a formal legal entity for your project.</description>
+    </item>
+    
+    <item>
+      <title>Chapter 7: Someone Else is Using your Trademark</title>
+      <link>https://fossmarks.org/post/7infringement/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fossmarks.org/post/7infringement/</guid>
+      <description>Despite the openness or guaranteed freedoms around using your copyrighted software code, you generally would still want to protect your project&amp;rsquo;s trademark.
+ For example, you may not want a fork to claim their software is the &amp;lsquo;official&amp;rsquo; software or that they offer &amp;lsquo;official&amp;rsquo; services when in reality neither are associated with you. In the worst case scenario, if a bad actor takes your software, designs malware around it and distributes it under the same name, users will blame you for the infection of their computers (which has happened).</description>
+    </item>
+    
+    <item>
+      <title>Chapter 8: Balancing Sharing v. Protecting</title>
+      <link>https://fossmarks.org/post/8permissive/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fossmarks.org/post/8permissive/</guid>
+      <description>To Be Permissive or Not?  Given your project is free or open source software, there is a strong chance you probably would like to be more permissive with your trademarks than proprietary software right owners. Typically, you FOSS projects want to encourage free and open dissemination of your original software under its name.
+ So, even though sometimes you may have the legal right to stop others from making copies of your software and distributing them, even in a commercial setting you may not want to stop that use.</description>
+    </item>
+    
+    <item>
+      <title>Contributors</title>
+      <link>https://fossmarks.org/contributors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fossmarks.org/contributors/</guid>
+      <description>Pamela S. Chestek Contributor, Editor
+Pamela is the principal of Chestek Legal in Raleigh, North Carolina, USA. She counsels creative communities on open source, brand, marketing and copyright matters. Prior to returning to private practice, she held in-house positions at footwear, apparel, and high technology companies and was an adjunct law professor teaching a course on trademark law and unfair competition. She is a frequent author of scholarly articles, and her blog, Property, Intangible, analyzes current intellectual property case law.</description>
+    </item>
+    
+    <item>
+      <title>How to Use The Guide</title>
+      <link>https://fossmarks.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fossmarks.org/about/</guid>
+      <description>What is this all about? This site serves as your guide from the basics of what a trademark is, to tips on choosing a name for your project, to registering a name, and what to do if someone uses your name without permission. This resource is design to be useful to both those just starting out, as well as more mature projects.
+ Trademarks and Free &amp;amp; Open Source Software (or &amp;ldquo;FOSS&amp;rdquo;) are not incompatible; instead, trademarks are legal tools strongly aligned with FOSS principles.</description>
+    </item>
+    
+    <item>
+      <title>Seek Advice</title>
+      <link>https://fossmarks.org/seekadvice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fossmarks.org/seekadvice/</guid>
+      <description>Contributing Trademark Experts  Anthonia Ghalamkarizadeh Hogan Lovells, Hamburg, Deutschland
+Pamela Chestek Chestek Legal, Raleigh, North Carolina, United States
+ Other Trademark Experts  Get listed here</description>
+    </item>
+    
+  </channel>
+</rss>

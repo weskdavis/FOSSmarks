@@ -5,10 +5,9 @@ services:
     build: .
     image: fossmarks
     restart: always
-    expose:
-      - 80
     environment:
       - VIRTUAL_HOST=fossmarks.org,www.fossmarks.org
+      - VIRTUAL_PORT=8080
       - LETSENCRYPT_HOST=fossmarks.org,www.fossmarks.org
       - LETSENCRYPT_EMAIL=contact@fsfe.org
 
