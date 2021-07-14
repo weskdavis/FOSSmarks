@@ -3,30 +3,28 @@ kind: pipeline
 name: default
 
 steps:
-- name: hugo
-  image: plugins/hugo
-  settings:
-    source: site
-    validate: true
+  - name: hugo
+    image: plugins/hugo
+    settings:
+      source: site
+      validate: true
 
-- name: deploy
-  image: docker/compose:1.29.1
-  commands:
-  - docker-compose -p fossmarks up --build -d
-  volumes:
-  - name: dockersock
-    path: /var/run/docker.sock
-  when:
-    branch:
-    - master
-    event:
-    - push
-    - tag
-    - deployment
+  - name: deploy
+    image: docker/compose:1.29.2
+    commands:
+      - docker-compose -p fossmarks up --build -d
+    volumes:
+      - name: dockersock
+        path: /run/user/1001/docker.sock
+    when:
+      branch:
+        - master
+      event:
+        - push
+        - tag
+        - deployment
 
 volumes:
-- name: dockersock
-  host:
-    path: /var/run/docker.sock
-
-...
+  - name: dockersock
+    host:
+      path: /run/user/1001/docker.sock
