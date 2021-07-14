@@ -24,6 +24,9 @@ steps:
         - tag
         - deployment
 
+node:
+  cont1: noris
+
 volumes:
   - name: dockersock
     host:
