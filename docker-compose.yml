@@ -1,4 +1,5 @@
-version: '3'
+---
+version: "3"
 services:
   fossmarks:
     container_name: fossmarks
@@ -16,7 +17,7 @@ services:
   connect-bridge:
     image: docker:dind
     volumes:
-      - /var/run/docker.sock:/var/run/docker.sock
+      - /run/user/1001/docker.sock:/var/run/docker.sock
     depends_on:
       - fossmarks
     command: /bin/sh -c 'docker network connect bridge fossmarks'
