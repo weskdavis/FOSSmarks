@@ -11,6 +11,9 @@ steps:
 
   - name: deploy
     image: docker/compose:1.29.2
+    environment:
+      XDG_RUNTIME_DIR: "/run/user/1001"
+      DOCKER_HOST: "unix:///run/user/1001/docker.sock"
     commands:
       - docker-compose -p fossmarks up --build -d
     volumes:
