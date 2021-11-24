@@ -6,14 +6,13 @@ services:
     build: .
     image: fossmarks
     restart: always
-    port:
+    ports:
       - "20000:8080"
-    # not needed anymore due to switch to caddy
-    # environment:
-    #   - VIRTUAL_HOST=fossmarks.org,www.fossmarks.org
-    #   - VIRTUAL_PORT=8080
-    #   - LETSENCRYPT_HOST=fossmarks.org,www.fossmarks.org
-    #   - LETSENCRYPT_EMAIL=contact@fsfe.org
+    environment:
+      - VIRTUAL_HOST=fossmarks.org,www.fossmarks.org
+      - VIRTUAL_PORT=8080
+      - LETSENCRYPT_HOST=fossmarks.org,www.fossmarks.org
+      - LETSENCRYPT_EMAIL=contact@fsfe.org
 
   # Connect the container which exposes the service to the 'bridge' network as
   # this is where the reverse proxy is
