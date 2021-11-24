@@ -28,7 +28,7 @@ steps:
         - deployment
 
 node:
-  cont1: plutex
+  cont1: noris
 
 volumes:
   - name: dockersock
