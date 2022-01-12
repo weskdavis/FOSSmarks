@@ -6,11 +6,6 @@ services:
     build: .
     image: fossmarks
     restart: always
-    environment:
-      - VIRTUAL_HOST=fossmarks.org,www.fossmarks.org
-      - VIRTUAL_PORT=8080
-      - LETSENCRYPT_HOST=fossmarks.org,www.fossmarks.org
-      - LETSENCRYPT_EMAIL=contact@fsfe.org
     # Reverse Proxy
     ports:
       - "6940:8080"
@@ -18,13 +13,3 @@ services:
       proxy.host: "fossmarks.org"
       proxy.host_alias: "www.fossmarks.org"
       proxy.port: "6940"
-
-  # Connect the container which exposes the service to the 'bridge' network as
-  # this is where the reverse proxy is
-  connect-bridge:
-    image: docker:dind
-    volumes:
-      - /run/user/1001/docker.sock:/var/run/docker.sock
-    depends_on:
-      - fossmarks
-    command: /bin/sh -c 'docker network connect bridge fossmarks'
