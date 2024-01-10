@@ -25,8 +25,8 @@ For example, it may be the case that confusion between two products with similar
 
 ## How to Use this Guide
 
-Simple, navigate over to [The Guide](https://fossmarks.org/post) and imagine you've created a project and are hoping to attract contributors and followers. If you've already done that, great, you can skip the imagining part. 
+Simple, navigate over to [The Guide](https://fossmarks.org/post/) and imagine you've created a project and are hoping to attract contributors and followers. If you've already done that, great, you can skip the imagining part.
 
 You'll want to choose a name or logo that sets your project apart from other projects. Ideally, you want users to know they are using your project when they see your name or logo, and not some other software or another version of your software.
 
-Let's get started, head over to [The Guide](https://fossmarks.org/post).
+Let's get started, head over to [The Guide](https://fossmarks.org/post/).
